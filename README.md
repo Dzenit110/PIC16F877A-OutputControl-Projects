@@ -2,8 +2,6 @@
 
 Here are three smaller tasks (projects). The projects are based on systems that we use in our daily lives, such as traffic lights, staircase automation, etc.
 
-<br>
-
 ## LED Running Light
 
 This project is developed using the PIC16F877A microcontroller, designed to control a sequence of LEDs connected to PORTB. Below are the key features and functionalities of the code:
