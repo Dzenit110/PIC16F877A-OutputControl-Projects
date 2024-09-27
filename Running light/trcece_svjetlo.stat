@@ -1,0 +1,11 @@
+// SourceBoost Linker Function Resource Usage Dump
+
+#GLOBAL:"global",line = 0,ram = 35.0,rom = 0;
+main(void):"E:\Skola\Mirkoracunari\Trcece svijetlo\trcece_svjetlo.c",line = 117,ram = 0.0,rom = 76;
+interrupt(void):"E:\Skola\Mirkoracunari\Trcece svijetlo\trcece_svjetlo.c",line = 208,ram = 0.0,rom = 11;
+delay_ms(unsigned char):"NoSourceFile",line = 0,ram = 0.0,rom = 24;
+_startup(void):"NoSourceFile",line = 0,ram = 0.0,rom = 40;
+#HEAP_BLOCK: 0, 272, 111;
+#HEAP_BLOCK: 1, 400, 96;
+#HEAP_BLOCK: 2, 160, 80;
+#HEAP_BLOCK: 3, 67, 45;
