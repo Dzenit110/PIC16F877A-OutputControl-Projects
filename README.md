@@ -106,35 +106,29 @@ This program demonstrates a fundamental approach to traffic light management usi
 <br><br>
 
 ## User Interface Examples
+<p align="center">
+    <img width="600" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1d23dd1a-e12a-434d-a63a-3b3f4785e2c2">
+    <br><br>
+    Figure 1: Simulation of Traffic Light Using PIC16F877A (Flowcode)
+</p>
 
-<img width="797" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1d23dd1a-e12a-434d-a63a-3b3f4785e2c2">
-<br><br>
+<p align="center">
+    <img width="600" alt="trc1" src="https://github.com/user-attachments/assets/bf67de8b-3f1d-4d76-a62f-be72dfca9c0a">
+    <br><br>
+    Figure 2: LED Running Light Simulation
+</p>
 
-Figure 1 Simulation of Traffic Light Using PIC16F877A (Flowcode)
+<p align="center">
+    <img width="600" alt="trc2" src="https://github.com/user-attachments/assets/099107cc-dc01-4f0d-bc69-9ea867562546">
+    <br><br>
+    Figure 3: LED Running Light Simulation (Extension)
+</p>
 
-<br><br>
-
-<img width="753" alt="trc1" src="https://github.com/user-attachments/assets/bf67de8b-3f1d-4d76-a62f-be72dfca9c0a">
-
-<br><br>
-
-Figure 2  LED Running Light Simulation
-
-<br><br>
-
-<img width="661" alt="trc2" src="https://github.com/user-attachments/assets/099107cc-dc01-4f0d-bc69-9ea867562546">
-
-
-<br><br>
-Figure 3 LED Running Light Simulation (Extension)
-
-<br><br>
-
-<img width="816" alt="stubisni automat" src="https://github.com/user-attachments/assets/f29a2e70-b04a-4d2a-b72b-2fe0d3b624d2">
-
-<br><br>
-Figure 4 Simulation of Staircase Light Controller (Light)
-
+<p align="center">
+    <img width="600" alt="stubisni automat" src="https://github.com/user-attachments/assets/f29a2e70-b04a-4d2a-b72b-2fe0d3b624d2">
+    <br><br>
+    Figure 4: Simulation of Staircase Light Controller (Light)
+</p>
 <br>
 
 ## 🧰 Languages & Tools 
