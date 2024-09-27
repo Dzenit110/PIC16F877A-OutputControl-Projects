@@ -1,0 +1,38 @@
+// SourceBoost Linker Call Tree Dump
+
+_startup:"NoSourceFile",line = 0
+{  main:"E:\Skola\Mirkoracunari\Semafor\semafor.c",line = 113
+  {    delay_s:"NoSourceFile",line = 0
+    {      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }    }    delay_s:"NoSourceFile",line = 0
+    {      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }    }    delay_s:"NoSourceFile",line = 0
+    {      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_ms:"NoSourceFile",line = 0
+    {    }    delay_s:"NoSourceFile",line = 0
+    {      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }    }  }}interrupt:"E:\Skola\Mirkoracunari\Semafor\semafor.c",line = 275
+{}
